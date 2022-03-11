@@ -3,7 +3,7 @@ name = "chrome_force_incognito_mode"
 version = "0.1.0"
 authors = ["Dan <daniel.netzel001@outlook.com>"]
 edition = "2021"
-description = "An alternative way to work with Windows registry keys using Rust"
+description = "tiny app used to modify Windows registry keys"
 
 [dependencies]
 winreg = "0.10"
